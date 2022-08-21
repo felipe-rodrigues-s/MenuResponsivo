@@ -4,7 +4,6 @@ const navList = document.querySelector('.nav-list');
 const manuList = document.querySelector('.mobile-menu');
 const navLinks= document.querySelectorAll('.nav-link');
 
-console.log(manuList);
 const arrayNavLinks = [...navLinks];
 
 function MobileNavBar() {
